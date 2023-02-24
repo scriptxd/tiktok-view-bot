@@ -1,0 +1,8 @@
+# ChangeLog #
+
+[x]» Bug Resolved : FileNotFoundError: [Errno 2] No such file or directory [duplicate]
+[x]» Design Changed
+[x]» All Bug Resolved (Only 218. Lines Left)
+
+Not: The file scanning system only works with local location.
+(encoding="utf-8" not work)
